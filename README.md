@@ -38,6 +38,6 @@
 ## Website
 <p align="center">
     <a  href="https://flubel.cf">
-        <img src="https://www.flubel.cf/mlg2m-removebg-preview.png">
+        <img src="https://www.flubel.tk/mlg2m-removebg-preview.png">
     </a>
  </p>
