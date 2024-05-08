@@ -37,7 +37,7 @@
 
 ## Website
 <p align="center">
-    <a  href="https://flubel.cf">
-        <img src="https://www.flubel.tk/mlg2m-removebg-preview.png">
+    <a  href="https://flubel.tech">
+        <img src="https://www.flubel.tech/mlg2m-removebg-preview.png">
     </a>
  </p>
